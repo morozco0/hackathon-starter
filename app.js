@@ -62,6 +62,7 @@ const passportConfig = require('./config/passport');
 const app = express();
 console.log('Run this app using "npm start" to include sass/scss/css builds.\n');
 
+
 /**
  * Connect to MongoDB.
  */
